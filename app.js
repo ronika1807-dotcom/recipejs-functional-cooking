@@ -172,3 +172,6 @@ const renderRecipes = (recipesToRender) => {
 
 // // Initialize: default display (all recipes, no sort)
 // updateDisplay();
+
+
+// new code
